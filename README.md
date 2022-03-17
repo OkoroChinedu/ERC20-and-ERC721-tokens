@@ -4,11 +4,11 @@ IPFS links, a link to the IPFS address:  https://ipfs.io/ipfs/QmQ9LFWGbkQRuP9u7A
 (2) https://ipfs.io/ipfs/QmULKSWLVutPHjPKdxBDiHZHJBwTjZALx8JiK2n2TcKm7Q
 
 
-Verified ERC20 token contract's etherscan address
+Verified ERC20 token contract's etherscan address:  
+0xF820C87EBc11E0Ad7407c163517D47b067C8629e
 
 
-
-Verified ERC721 token contract's etherscan address
+Verified ERC721 token contract's etherscan address:  
 0x8e16EeDF3C836a34f22a98b71167635dd4EB4853
 
 
