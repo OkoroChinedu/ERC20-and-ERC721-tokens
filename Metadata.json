@@ -1,0 +1,8 @@
+Metadata structure: {
+               name : ZuriBlockGames001 // Any name
+
+               image : https://ipfs.io/ipfs/QmQ9LFWGbkQRuP9u7AB61kZWqqrXtsXdvXc5QxUTvZ7vEo  // URL to image on IPFS,
+
+               description: The above is the link to the image hosted on IPFS. // Some text
+
+     }
